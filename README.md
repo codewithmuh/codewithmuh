@@ -1,5 +1,5 @@
-![a23 (3)](https://github.com/codewithmuh/codewithmuh/assets/51082957/2f8cc8df-70c0-4ddb-9dcf-072eb30dcadf)
 
+![a23 (14)](https://github.com/user-attachments/assets/e56276b7-f682-4492-8665-dec4db5d8b34)
 
 
  <h1> 🤓 Hey! Nice to see you.</h1>

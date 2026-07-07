@@ -6,7 +6,8 @@
 
 I build AI-powered apps from idea to production — helping developers ship faster with AI.
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codewithmuh?sub_confirmation=1)
+[![YouTube @codewithmuh](https://img.shields.io/badge/YouTube-%40codewithmuh-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codewithmuh?sub_confirmation=1)
+[![YouTube @devopsbymuh](https://img.shields.io/badge/YouTube-%40devopsbymuh-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@devopsbymuh?sub_confirmation=1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-rashid-daha/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@codewithmuh)
 [![Website](https://img.shields.io/badge/codewithmuh.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codewithmuh.com)
@@ -16,8 +17,21 @@ I build AI-powered apps from idea to production — helping developers ship fast
 
 ---
 
+### 🚀 Featured: Production DevOps Project Series
+
+Building **10 production-grade DevOps projects** — *system design first*, then built end-to-end on **AWS / GCP / Azure** with Terraform, Kubernetes & CI/CD. One new project every 1–2 weeks on **[youtube.com/@devopsbymuh](https://youtube.com/@devopsbymuh)**.
+
+| # | Project | Stack | Repo |
+|:-:|---------|-------|------|
+| 1 | 3-Tier Web App on AWS | ECS Fargate · RDS Multi-AZ · Terraform · GitHub Actions | **[aws-3tier-devops-project](https://github.com/codewithmuh/aws-3tier-devops-project)** |
+
+⭐ *Follow along — new builds shipping weekly.*
+
+---
+
 ### 🔭 What I'm Working On
 
+- Shipping a **10-project production DevOps series** on [devopsbymuh](https://youtube.com/@devopsbymuh) — system design → build → prove it
 - Building **AI Agents, AI Voice Agents & LLM Automation**
 - Creating hands-on tutorials on [YouTube](https://youtube.com/@codewithmuh?sub_confirmation=1)
 - Writing technical articles on [Medium](https://medium.com/@codewithmuh) & [LinkedIn](https://www.linkedin.com/in/muhammad-rashid-daha/)
@@ -53,6 +67,7 @@ I build AI-powered apps from idea to production — helping developers ship fast
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -72,7 +87,7 @@ I build AI-powered apps from idea to production — helping developers ship fast
 
 ⚡ Fun fact — I think I'm not a boring person.
 
-![Profile Views](https://komarev.com/ghpvc/?username=rashiddaha&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=codewithmuh&style=for-the-badge&color=blue)
 
 <a href="https://www.buymeacoffee.com/codewithmuh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="163"></a>
 

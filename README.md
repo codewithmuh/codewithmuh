@@ -2,7 +2,7 @@
 
 # Hey, I'm Muhammad Rashid 👋
 
-**CodeWithMuh | Senior AI Systems Engineer | AI Agents, LLMs, RAG, Python, Django, AWS & DevOps | Open-Source Projects**
+**Senior Platform Engineer | Backend, DevOps & AWS Infrastructure | LLM Systems in Production | AI Agents & Automation | Python, TypeScript, Terraform | 37K+ YouTube Subs (@CodeWithMuh)**
 
 I build and deploy production-ready AI applications — combining LLMs, backend engineering, and cloud infrastructure to turn ideas into reliable systems.
 
